@@ -8,3 +8,5 @@ So, make sure that you back up your iTunes Library XML.
 Other than that, take your copied XML and put it in the XML folder. Don't change the name, and run the program. You should get some popups after a bit showing you some of your listening habits.
 
 Eventually, I'd like to incorporate a GUI to select what kinds of things you'd like to see, but we'll see how far that goes.
+
+Be sure to unzip the dejavu fonts folder. My Firefox tab crashed every time I attempted to upload it when it was unzipped.
